@@ -61,7 +61,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.8.2</muleVersion>
-					<username>karldreyer-training</username>
+					<username>kdreyer-training</username>
 					<password>Password1</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
